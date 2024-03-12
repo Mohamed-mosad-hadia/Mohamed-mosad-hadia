@@ -37,26 +37,14 @@
     <a href="www.linkedin.com/in/mohamed-mosaad-85840b254" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
-  <a href="mailto:ammarfathy516@gmail.com">
+  <a href="muhamed.mosadd@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-        <a href="https://mostaql.com/u/Mohamed Mosaad/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logoColor=white" />
-  </a>
-    <a href="https://youtube.com/@Mohamed Mosaad91?si=bHNizIHn9dIL3jX7">
-    <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-     </a>
-     <a href="https://t.me/Mohamed Mosaad">
-    <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
+ 
+
+     
 </div>
 
-<br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-<br>
+
 
 ## 💜 Views and Followers:
 
