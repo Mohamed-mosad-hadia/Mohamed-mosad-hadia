@@ -39,19 +39,23 @@
     </a>
  <a href="mailto:muhamed.mosadd@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
- 
-
-     
+  </a>
+   <a href="https://wa.me/20106981595" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" alt="WhatsApp">
+   </a>
+     </a>
+   <a href="https://www.instagram.com/mmosad22" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram">
+   </a>
 </div>
 
 
 
 ## 💜 Views and Followers:
+![Profile Views](https://komarev.com/ghpvc/?username=Mohamed-mosad-hadia)
+![GitHub Followers](https://img.shields.io/github/followers/Mohamed%20Mosaad?label=Followers&style=social)
 
-<a href="https://github.com/Mohamed Mosaad/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Mohamed Mosaad">
-</a>
-<a href="https://github.com/Mohamed Mosaad?tab=followers"><img src="https://img.shields.io/github/followers/Mohamed Mosaad?label=Followers&style=social" alt="GitHub Badge"></a>
+Shoot me a message on [LinkedIn](https://www.linkedin.com/in/mohamed-mosaad-85840b254)! I'm a lifelong learner.
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;I'm+Long+Life+Learner">
 </h3>
