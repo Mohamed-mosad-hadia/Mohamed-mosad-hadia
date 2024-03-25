@@ -31,7 +31,7 @@
 <br>
 
 
-## 🤝 Connect With Me:
+##  Connect With Me:<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 <div align="center">
  <a href="https://www.linkedin.com/in/mohamed-mosaad-85840b254" target="_blank">
