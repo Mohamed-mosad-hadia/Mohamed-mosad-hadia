@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🔭 I’m currently working as a **Machine Learning Engineer  💻** | **NLP** | **Student** .
+- 🔭 I’m currently working as a **Machine Learning Engineer  💻** | **NLP** | **CV** **Student** .
 - 🏛 I'm a student at computer science MU || Student at DEPI
 - 🌱 I’m currently learning **Advanced ML , NLP And CV **.
 
