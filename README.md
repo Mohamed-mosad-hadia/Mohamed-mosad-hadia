@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🔭 I’m currently working as a **Machine Learning Engineer  💻** | **NLP** | **CV** **Student** .
-- 🏛 I'm a student at computer science MU || Student at DEPI
-- 🌱 I’m currently learning **Advanced ML , NLP And CV **.
+- 🔭 I’m currently working as a **Machine Learning Engineer  💻** | **NLP** | **CV**  .
+- 🏛 I graduated from Mansoura University with a degree in computer science . || Graduated from  DEPI
+- 🌱 I'm Committing to continuous learning **Advanced ML , NLP And CV **.
 
 - 👨‍💻 All of my projects are available at **[My Repository]([https://github.com/Mohamed Mosaad?page=1&tab=repositories](https://github.com/Mohamed-mosad-hadia?tab=repositories))**.
 
