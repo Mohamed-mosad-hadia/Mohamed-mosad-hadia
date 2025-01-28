@@ -20,9 +20,18 @@
 
 ## 🚀 Languages and Tools:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,anaconda,matlab" />
-    <img src="https://skillicons.dev/icons?i=github,git,vscode" /><br>
+    <!-- Programming Languages -->
+    <img src="https://skillicons.dev/icons?i=python,cpp,cs,html,css,js" />
+    <!-- Frameworks and Libraries -->
+    <img src="https://skillicons.dev/icons?i=flask,tensorflow,scikitlearn" />
+    <!-- Tools -->
+    <img src="https://skillicons.dev/icons?i=anaconda,visualstudio,azure,opencv,mysql,powerbi,excel" />
+    <!-- DevOps and Cloud -->
+<!--     <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,azure" /> -->
+    <!-- Collaboration and Design -->
+    <img src="https://skillicons.dev/icons?i=github,git,vscode,postman,figma,blender" />
 </div>
+
 
 <br>
 <div align="center">
