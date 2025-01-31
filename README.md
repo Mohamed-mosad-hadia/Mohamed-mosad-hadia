@@ -10,7 +10,7 @@
 - 🏛 I graduated from Mansoura University with a degree in computer science . || Graduated from  DEPI
 - 🌱 I'm Committing to continuous learning **Advanced ML , NLP And CV **.
 
-- 👨‍💻 All of my projects are available at **[My Repository]([https://github.com/Mohamed Mosaad?page=1&tab=repositories](https://github.com/Mohamed-mosad-hadia?tab=repositories))**.
+- 👨‍💻 All of my projects are available at **[My Repository]([https://github.com/Mohamed Mosaad?page=1&tab=repositories](https://github.com/Mohamed-mosad-hadia/CV/blob/main/Mohamed%20Mosaad%20Hassan%20.pdf))**.
 
 <br>
 <div align="center">
