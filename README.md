@@ -39,7 +39,7 @@
 </div>
 <br>
 
-![image](https://github.com/user-attachments/assets/8d61fd53-0efa-4dca-a3f7-56aef4ddf9a0)
+![image](https://github.com/Mohamed-mosad-hadia/CV/blob/main/Mohamed%20Mosaad%20Hassan%20.pdf)
 
 ##  Connect With Me:<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
