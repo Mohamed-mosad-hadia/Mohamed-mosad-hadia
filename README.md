@@ -7,8 +7,23 @@
 ## 🙋‍♂️ About Me:
 
 
-- 🏛 I graduated from Mansoura University with a degree in computer science || Graduated from  DEPI Microsoft Machine Learning Engineer.
-- 🌱 I'm Committing to continuous learning  about data .
+👨‍💻 About Me
+
+🎓 Education
+Graduated from Mansoura University with a degree in Computer Science. Also completed the Microsoft Machine Learning Engineer Program (DEPI).
+
+🌱 Lifelong Learner
+Passionate about data and constantly learning new tools and technologies in data engineering and machine learning.
+
+💻 Backend Development
+Skilled in Django (Python) – I love building full-stack solutions from zero to deployment.
+
+🧠 Problem Solver
+Strong at solving business-related problems using data-driven approaches and clean backend logic.
+
+🚀 Goal-Oriented
+I enjoy turning ideas into real products, especially when they make a meaningful impact.
+
 
 - 👨‍💻 All of my projects are available at **[My Repository]([https://github.com/Mohamed Mosaad?page=1&tab=repositories](https://github.com/Mohamed-mosad-hadia?tab=repositories))**.
 
